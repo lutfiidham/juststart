@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use {{ rootNamespace }}Services\BaseService;
+
+class {{ class }} extends BaseService
+{
+    //
+}
