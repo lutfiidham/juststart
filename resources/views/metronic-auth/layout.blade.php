@@ -39,7 +39,7 @@
         <!--begin::Login-->
         <div class="login login-4 login-signin-on d-flex flex-row-fluid" id="kt_login">
             <div class="d-flex flex-center flex-row-fluid bgi-size-cover bgi-position-top bgi-no-repeat"
-                style="background-image: url('{{ asset('media/company-logos/login-cover.jpeg') }}');">
+                style="background-image: url('{{ asset('media/bg/bg-3.jpg') }}');">
                 <div class="login-form text-center p-7 position-relative overflow-hidden">
                     <!--begin::Login Header-->
                     @php

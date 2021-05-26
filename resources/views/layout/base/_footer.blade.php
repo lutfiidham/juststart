@@ -7,7 +7,7 @@
         {{-- Copyright --}}
         <div class="text-dark order-2 order-md-1">
             <span class="text-muted font-weight-bold mr-2">{{ date("Y") }} &copy;</span>
-            <a href="https://vsualproject.com" target="_blank" class="text-dark-75 text-hover-primary">Vsualproject</a>
+            <a href="lutfiidham.rf.gd" target="_blank" class="text-dark-75 text-hover-primary">Idham</a>
         </div>
 
         {{-- Nav --}}
